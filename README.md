@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-amitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="the-amitsingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-amitsingh" alt="the-amitsingh" /></a> </p>
-<h2><img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j202w6yjthz6uhs6jzaqar76r9j7g2nof9xdae8d&rid=giphy.gif&ct=g" width="60"><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAbout me </b></h2>
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="400">
+<h2><img src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="60"><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAbout me </b></h2>
+<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j202w6yjthz6uhs6jzaqar76r9j7g2nof9xdae8d&rid=giphy.gif&ct=g" width="400">
 ### <h3 align="left">Here is  some useful way to reach to me  👇 :   </h3>
 <p align="left">
   
