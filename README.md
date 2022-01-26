@@ -51,7 +51,7 @@
 
 <table>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=the-amitsingh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=the-amitsingh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green "/>
 
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-amitsingh&show_icons=true&locale=en&layout=compact&theme=blue-green" />
 </td>
