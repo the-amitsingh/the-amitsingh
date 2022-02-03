@@ -62,4 +62,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-amitsingh&theme=blue-green" />
 </p>
 
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=the-amitsingh&theme=react-dark&hide_border=github_dark)
